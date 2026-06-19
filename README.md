@@ -5,11 +5,15 @@ My day-to-day Data Structures & Algorithms practice, solved and pushed as I lear
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 
+---
+
 ### Folder Structure
 
 DSA-Practice/
 ├── Arrays/
 └── README.md
+
+---
 
 ### Progress Log
 
@@ -20,11 +24,14 @@ DSA-Practice/
 | Best Time to Buy and Sell Stock | Single Pass | Easy |
 | Find the Highest Altitude | Prefix Sum | Easy |
 
+---
 
 ### Tech Stack
 
 - Language: C++
 - Platform: LeetCode
+
+---
 
 ### Author
 
