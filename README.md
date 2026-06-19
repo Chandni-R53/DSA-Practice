@@ -12,7 +12,8 @@ My day-to-day Data Structures & Algorithms practice, solved and pushed as I lear
 ```
 DSA-Practice/
 ├── Arrays/
-└── README.md ```
+└── README.md 
+```
 
 ---
 
