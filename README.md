@@ -9,11 +9,11 @@ My day-to-day Data Structures & Algorithms practice, solved and pushed as I lear
 
 ### Folder Structure
 
-\`\`\`
+```
 DSA-Practice/
 ├── Arrays/
 └── README.md 
-\`\`\`
+```
 
 ---
 
