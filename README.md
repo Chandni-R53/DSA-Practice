@@ -26,6 +26,12 @@ DSA-Practice/
 | Best Time to Buy and Sell Stock | Single Pass | Easy |
 | Find the Highest Altitude | Prefix Sum | Easy |
 
+**2026-06-20**
+| Problem | Pattern | Difficulty |
+|---------|---------|------------|
+| minimum-positive-sum-subarray | Brute Force, running sum | Easy |
+| minimum-positive-sum-subarray | Sliding Window | Medium |
+
 ---
 
 ### Tech Stack
