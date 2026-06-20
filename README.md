@@ -19,18 +19,18 @@ DSA-Practice/
 
 ### Progress Log
 
-**2026-06-19**
+**19-06-2026**
 | Problem | Pattern | Difficulty |
 |---------|---------|------------|
 | Two Sum II - Input Array Is Sorted | Two Pointer | Medium |
 | Best Time to Buy and Sell Stock | Single Pass | Easy |
 | Find the Highest Altitude | Prefix Sum | Easy |
 
-**2026-06-20**
+**20-06-2026**
 | Problem | Pattern | Difficulty |
 |---------|---------|------------|
 | minimum-positive-sum-subarray | Brute Force, running sum | Easy |
-| minimum-positive-sum-subarray | Sliding Window | Medium |
+| minimum-size-subarray-sum | Sliding Window | Medium |
 
 ---
 
