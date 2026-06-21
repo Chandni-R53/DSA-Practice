@@ -32,6 +32,11 @@ DSA-Practice/
 | minimum-positive-sum-subarray | Brute Force, running sum | Easy |
 | minimum-size-subarray-sum | Sliding Window | Medium |
 
+**21-06-2026**
+| Problem | Pattern | Difficulty |
+|---------|---------|------------|
+| maximum-ice-cream-bars | Greedy + Counting Sort | Medium |
+
 ---
 
 ### Tech Stack
