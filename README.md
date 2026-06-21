@@ -41,6 +41,7 @@ DSA-Practice/
 | Problem | Pattern | Difficulty |
 |---------|---------|------------|
 | maximum-points-you-can-obtain-from-cards | Sliding Window | Medium |
+| minimum-consecutive-cards-to-pick-up | HashMap | Medium |
 
 ---
 
