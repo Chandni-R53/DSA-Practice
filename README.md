@@ -37,6 +37,11 @@ DSA-Practice/
 |---------|---------|------------|
 | maximum-ice-cream-bars | Greedy + Counting Sort | Medium |
 
+**22-06-2026**
+| Problem | Pattern | Difficulty |
+|---------|---------|------------|
+| maximum-points-you-can-obtain-from-cards | Sliding Window | Medium |
+
 ---
 
 ### Tech Stack
