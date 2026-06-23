@@ -12,6 +12,7 @@ My day-to-day Data Structures & Algorithms practice, solved and pushed as I lear
 ```
 DSA-Practice/
 ├── Arrays/
+├── Strings/
 └── README.md 
 ```
 
@@ -19,29 +20,18 @@ DSA-Practice/
 
 ### Progress Log
 
-**19-06-2026**
-| Problem | Pattern | Difficulty |
-|---------|---------|------------|
-| Two Sum II - Input Array Is Sorted | Two Pointer | Medium |
-| Best Time to Buy and Sell Stock | Single Pass | Easy |
-| Find the Highest Altitude | Prefix Sum | Easy |
-
-**20-06-2026**
-| Problem | Pattern | Difficulty |
-|---------|---------|------------|
-| minimum-positive-sum-subarray | Brute Force, running sum | Easy |
-| minimum-size-subarray-sum | Sliding Window | Medium |
-
-**21-06-2026**
-| Problem | Pattern | Difficulty |
-|---------|---------|------------|
-| maximum-ice-cream-bars | Greedy + Counting Sort | Medium |
-
-**22-06-2026**
-| Problem | Pattern | Difficulty |
-|---------|---------|------------|
-| maximum-points-you-can-obtain-from-cards | Sliding Window | Medium |
-| minimum-consecutive-cards-to-pick-up | HashMap | Medium |
+| Date | Problem | Pattern | Difficulty |
+|------|---------|---------|------------|
+| 19-06-2026 | Two Sum II - Input Array Is Sorted | Two Pointer | Medium |
+| 19-06-2026 | Best Time to Buy and Sell Stock | Single Pass | Easy |
+| 19-06-2026 | Find the Highest Altitude | Prefix Sum | Easy |
+| 20-06-2026 | Minimum Positive Sum Subarray | Brute Force | Easy |
+| 20-06-2026 | Minimum Size Subarray Sum | Sliding Window | Medium |
+| 21-06-2026 | Maximum Ice Cream Bars | Greedy + Counting Sort | Medium |
+| 22-06-2026 | Maximum Points You Can Obtain from Cards | Sliding Window | Medium |
+| 22-06-2026 | Minimum Consecutive Cards to Pick Up | HashMap | Medium |
+| 24-06-2026 | Length of Last Word | String Traversal | Easy |
+| 24-06-2026 | Find the Index of First Occurrence in a String | String Matching | Easy |
 
 ---
 
