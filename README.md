@@ -32,6 +32,7 @@ DSA-Practice/
 | 22-06-2026 | Minimum Consecutive Cards to Pick Up | HashMap | Medium |
 | 24-06-2026 | Length of Last Word | String Traversal | Easy |
 | 24-06-2026 | Find the Index of First Occurrence in a String | String Matching | Easy |
+| 25-06-2026 | Count Subarrays With Majority Element I | Brute Force (subarray enumeration) | Medium |
 
 ---
 
