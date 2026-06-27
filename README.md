@@ -33,6 +33,7 @@ DSA-Practice/
 | 24-06-2026 | Length of Last Word | String Traversal | Easy |
 | 24-06-2026 | Find the Index of First Occurrence in a String | String Matching | Easy |
 | 25-06-2026 | Count Subarrays With Majority Element I | Brute Force (subarray enumeration) | Medium |
+| 27-06-2026 | Find the Maximum Number of Elements in Subset | HashMap + Greedy | Medium |
 
 ---
 
