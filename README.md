@@ -36,6 +36,7 @@ DSA-Practice/
 | 27-06-2026 | Find the Maximum Number of Elements in Subset | HashMap + Greedy | Medium |
 | 28-06-2026 | Maximum Element After Decreasing and Rearranging | Greedy + Sorting | Medium |
 | 28-06-2026 | Sum of Subarray Ranges | Brute Force | Medium |
+| 29-06-2026 | Number of Strings That Appear as Substrings in Word | String Matching (built-in find) | Easy |
 
 ---
 
