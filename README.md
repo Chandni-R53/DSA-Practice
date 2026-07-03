@@ -40,6 +40,7 @@ DSA-Practice/
 | 30-06-2026 | Number of Substrings Containing All Three Characters | Sliding Window | Medium | 
 | 01-07-2026 | Remove Duplicates from Sorted Array | Two pointer | Easy |
 | 02-07-2026 | Remove Element | Two pointer | Easy |
+| 03-07-2026 | Add Binary | String Simulation | Easy |
 
 ---
 
