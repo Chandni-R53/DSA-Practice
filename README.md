@@ -43,6 +43,7 @@ DSA-Practice/
 | 03-07-2026 | Add Binary | String Simulation | Easy |
 | 04-07-2026 | Valid Palindrome | Two Pointer | Easy |
 | 04-07-2026 | Move Zeroes | Two Pointer | Easy |
+| 04-07-2026 | Squares of a Sorted Array | Two Pointer | Easy |
 
 ---
 
