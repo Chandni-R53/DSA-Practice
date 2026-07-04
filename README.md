@@ -45,6 +45,7 @@ DSA-Practice/
 | 04-07-2026 | Move Zeroes | Two Pointer | Easy |
 | 04-07-2026 | Squares of a Sorted Array | Two Pointer | Easy |
 | 05-07-2026 | 3sum | Two Pointer | Medium |
+| 05-07-2026 | Container With Most Water | Two Pointer | Medium |
 
 ---
 
