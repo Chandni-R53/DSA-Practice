@@ -48,6 +48,7 @@ DSA-Practice/
 | 05-07-2026 | Container With Most Water | Two Pointer | Medium |
 | 05-07-2026 | 3Sum Closest | Two Pointer | Medium |
 | 06-07-2026 | Maximum Average Subarray I | Sliding Window | Easy |
+| 07-07-2026 | Contains Duplicate II | Sliding Window | Easy |
 
 ---
 
