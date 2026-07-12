@@ -50,6 +50,7 @@ DSA-Practice/
 | 06-07-2026 | Maximum Average Subarray I | Sliding Window | Easy |
 | 07-07-2026 | Contains Duplicate II | Sliding Window | Easy |
 | 10-07-2026 | Concatenate Non-Zero Digits and Multiply by Sum I | String Manipulation | Easy |
+| 12-07-2026 | Rank Transform of an Array | Sorting + HashMap | Easy |
 
 ---
 
