@@ -51,6 +51,7 @@ DSA-Practice/
 | 07-07-2026 | Contains Duplicate II | Sliding Window | Easy |
 | 10-07-2026 | Concatenate Non-Zero Digits and Multiply by Sum I | String Manipulation | Easy |
 | 12-07-2026 | Rank Transform of an Array | Sorting + HashMap | Easy |
+| 13-07-2026 | Sequential Digits | BFS | Medium |
 
 ---
 
