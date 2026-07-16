@@ -54,6 +54,7 @@ DSA-Practice/
 | 12-07-2026 | Rank Transform of an Array | Sorting + HashMap | Easy |
 | 13-07-2026 | Sequential Digits | BFS | Medium |
 | 15-07-2026 | GCD of Odd and Even Sums | Math | Easy |
+| 16-07-2026 | Sum of GCD of Formed Pairs | Prefix GCD + Sorting + Two Pointer | Medium |
 
 ---
 
