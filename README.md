@@ -58,6 +58,7 @@ DSA-Practice/
 | 16-07-2026 | Subarray Sum Equals K | Brute Force (nested loop) | Medium |
 | 18-07-2026 | Find Greatest Common Divisor of Array | Math (GCD) | Easy |
 | 20-07-2026 | Smallest Subsequence of Distinct Characters | Greedy + Monotonic Stack | Medium |
+| 20-07-2026 | Shift 2D Grid | Array Rotation | Easy |
 
 ---
 
