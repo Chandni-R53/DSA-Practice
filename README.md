@@ -60,6 +60,7 @@ DSA-Practice/
 | 20-07-2026 | Smallest Subsequence of Distinct Characters | Greedy + Monotonic Stack | Medium |
 | 20-07-2026 | Shift 2D Grid | Array Rotation | Easy |
 | 21-07-2026 | Maximize Active Section with Trade I | Greedy + Sliding Window | Medium |
+| 23-07-2026 | Number of Unique XOR Triplets I | Bit Manipulation | Medium |
 
 ---
 
