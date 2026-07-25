@@ -62,6 +62,7 @@ DSA-Practice/
 | 21-07-2026 | Maximize Active Section with Trade I | Greedy + Sliding Window | Medium |
 | 23-07-2026 | Number of Unique XOR Triplets I | Bit Manipulation | Medium |
 | 24-07-2026 | Number of Unique XOR Triplets II | Brute Force | Medium |
+| 25-07-2026 | Maximum Product of Two Digits | Math + Brute Force | Easy |
 
 ---
 
