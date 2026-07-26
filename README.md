@@ -63,6 +63,7 @@ DSA-Practice/
 | 23-07-2026 | Number of Unique XOR Triplets I | Bit Manipulation | Medium |
 | 24-07-2026 | Number of Unique XOR Triplets II | Brute Force | Medium |
 | 25-07-2026 | Maximum Product of Two Digits | Math + Brute Force | Easy |
+| 26-07-2026 | Maximum Product of Three Numbers | Sorting + Greedy | Easy |
 
 ---
 
