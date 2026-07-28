@@ -65,6 +65,7 @@ DSA-Practice/
 | 25-07-2026 | Maximum Product of Two Digits | Math + Brute Force | Easy |
 | 26-07-2026 | Maximum Product of Three Numbers | Sorting + Greedy | Easy |
 | 27-07-2026 | Maximum Product of Two Elements in an Array | Brute Force | Easy |
+| 28-07-2026 | Smallest Palindromic Rearrangement I | Greedy + Two Pointer | Medium |
 
 ---
 
