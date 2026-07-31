@@ -67,6 +67,7 @@ DSA-Practice/
 | 27-07-2026 | Maximum Product of Two Elements in an Array | Brute Force | Easy |
 | 28-07-2026 | Smallest Palindromic Rearrangement I | Greedy + Two Pointer | Medium |
 | 30-07-2026 | Minimum Number of Pushes to Type Word I | Greedy + Math | Easy |
+| 31-07-2026 | Minimum Number of Pushes to Type Word II | Greedy + Sorting | Easy |
 
 ---
 
