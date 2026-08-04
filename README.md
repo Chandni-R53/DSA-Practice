@@ -70,6 +70,7 @@ DSA-Practice/
 | 31-07-2026 | Minimum Number of Pushes to Type Word II | Greedy + Sorting | Easy |
 | 04-08-2026 | Find Missing Elements | Brute Force | Easy |
 | 04-08-2026 | Longest Substring Without Repeating Characters | sliding window | Medium|
+| 04-08-2026 | Maximum Number of Vowels in a Substring of Given Length | sliding window | Medium|
 
 ---
 
