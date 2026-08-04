@@ -68,6 +68,7 @@ DSA-Practice/
 | 28-07-2026 | Smallest Palindromic Rearrangement I | Greedy + Two Pointer | Medium |
 | 30-07-2026 | Minimum Number of Pushes to Type Word I | Greedy + Math | Easy |
 | 31-07-2026 | Minimum Number of Pushes to Type Word II | Greedy + Sorting | Easy |
+| 04-08-2026 | Find Missing Elements | Brute Force | Easy |
 
 ---
 
