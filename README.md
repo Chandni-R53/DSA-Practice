@@ -71,6 +71,7 @@ DSA-Practice/
 | 04-08-2026 | Find Missing Elements | Brute Force | Easy |
 | 04-08-2026 | Longest Substring Without Repeating Characters | sliding window | Medium|
 | 04-08-2026 | Maximum Number of Vowels in a Substring of Given Length | sliding window | Medium|
+| 05-08-2026 | Subarray Product Less Than K | sliding window | Medium|
 
 ---
 
