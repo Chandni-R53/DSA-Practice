@@ -73,6 +73,7 @@ DSA-Practice/
 | 04-08-2026 | Maximum Number of Vowels in a Substring of Given Length | sliding window | Medium|
 | 05-08-2026 | Subarray Product Less Than K | sliding window | Medium|
 | 06-08-2026 | Max Consecutive Ones | Single Pass | Easy |
+| 06-08-2026 | Max Consecutive Ones III | Sliding Window | Medium |
 
 ---
 
