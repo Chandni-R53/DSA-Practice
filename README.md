@@ -74,6 +74,7 @@ DSA-Practice/
 | 05-08-2026 | Subarray Product Less Than K | sliding window | Medium|
 | 06-08-2026 | Max Consecutive Ones | Single Pass | Easy |
 | 06-08-2026 | Max Consecutive Ones III | Sliding Window | Medium |
+| 06-08-2026 | Smallest Divisible Digit Product I | Brute Force | Easy |
 
 ---
 
