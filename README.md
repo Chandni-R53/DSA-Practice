@@ -75,6 +75,7 @@ DSA-Practice/
 | 06-08-2026 | Max Consecutive Ones | Single Pass | Easy |
 | 06-08-2026 | Max Consecutive Ones III | Sliding Window | Medium |
 | 06-08-2026 | Smallest Divisible Digit Product I | Brute Force | Easy |
+| 06-08-2026 | Fruit Into Baskets | Sliding Window | Medium |
 
 ---
 
