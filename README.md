@@ -79,6 +79,8 @@ DSA-Practice/
 | 06-08-2026 | Fruit Into Baskets II | Brute Force | Easy |
 | 11-08-2026 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Prefix Sum + Linear Search | Easy |
 | 12-08-2026 | Length of Longest Subarray With at Most K Frequency | Sliding Window | Medium |
+| 14-08-2026 | Maximum Length Substring With Two Occurrences | Sliding Window | Easy |
+| 14-08-2026 | Running Sum of 1d Array | Prefix Sum | Easy |
 
 ---
 
