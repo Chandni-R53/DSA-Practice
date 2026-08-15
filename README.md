@@ -83,6 +83,7 @@ DSA-Practice/
 | 14-08-2026 | Running Sum of 1d Array | Prefix Sum | Easy |
 | 14-08-2026 | Find Pivot Index | Prefix Sum | Easy |
 | 14-08-2026 | Find Pivot Integer | Prefix Sum | Easy |
+| 15-08-2026 | Longest Subsequence With Non-Zero Bitwise XOR | Bit Manipulation | Medium |
 
 ---
 
