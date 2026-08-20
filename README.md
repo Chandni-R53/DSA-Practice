@@ -85,6 +85,7 @@ DSA-Practice/
 | 14-08-2026 | Find Pivot Integer | Prefix Sum | Easy |
 | 15-08-2026 | Longest Subsequence With Non-Zero Bitwise XOR | Bit Manipulation | Medium |
 | 15-08-2026 | Maximum Sum With Exactly K Elements | Greedy + Math | Easy |
+| 20-08-2026 | Distribute Elements Into Two Arrays I | Simulation | Easy |
 
 ---
 
