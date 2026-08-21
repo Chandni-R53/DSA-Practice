@@ -86,6 +86,9 @@ DSA-Practice/
 | 15-08-2026 | Longest Subsequence With Non-Zero Bitwise XOR | Bit Manipulation | Medium |
 | 15-08-2026 | Maximum Sum With Exactly K Elements | Greedy + Math | Easy |
 | 20-08-2026 | Distribute Elements Into Two Arrays I | Simulation | Easy |
+| 21-08-2026 | Range Sum Query - Immutable | Prefix Sum | Easy |
+| 21-08-2026 | Shuffle the Array | Array Manipulation | Easy |
+| 21-08-2026 | Number of Ways to Split Array | Prefix Sum | Medium |
 
 ---
 
