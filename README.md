@@ -89,6 +89,8 @@ DSA-Practice/
 | 21-08-2026 | Range Sum Query - Immutable | Prefix Sum | Easy |
 | 21-08-2026 | Shuffle the Array | Array Manipulation | Easy |
 | 21-08-2026 | Number of Ways to Split Array | Prefix Sum | Medium |
+| 22-08-2026 | Check Divisibility by Digit Sum and Product | Math | Easy |
+| 21-08-2026 | Number of Ways to Split Array | Prefix Sum + HashMap | Medium |
 
 ---
 
