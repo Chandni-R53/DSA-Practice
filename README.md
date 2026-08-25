@@ -91,6 +91,7 @@ DSA-Practice/
 | 21-08-2026 | Number of Ways to Split Array | Prefix Sum | Medium |
 | 22-08-2026 | Check Divisibility by Digit Sum and Product | Math | Easy |
 | 21-08-2026 | Number of Ways to Split Array | Prefix Sum + HashMap | Medium |
+| 25-08-2026 | Smallest Missing Multiple of K | Brute Force + Linear Search | Easy |
 
 ---
 
