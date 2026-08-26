@@ -92,6 +92,8 @@ DSA-Practice/
 | 22-08-2026 | Check Divisibility by Digit Sum and Product | Math | Easy |
 | 21-08-2026 | Number of Ways to Split Array | Prefix Sum + HashMap | Medium |
 | 25-08-2026 | Smallest Missing Multiple of K | Brute Force + Linear Search | Easy |
+| 26-08-2026 | Maximum Subarray | Kadane's Algorithm | Medium |
+| 26-08-2026 | Maximum Product Subarray | Kadane's Algorithm | Medium |
 
 ---
 
