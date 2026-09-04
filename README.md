@@ -97,6 +97,10 @@ DSA-Practice/
 | 02-09-2026 | Longest Turbulent Subarray | Kadane's Algorithm | Medium |
 | 02-09-2026 | Maximum Subarray Sum with One Deletion | Kadane's Algorithm | Medium |
 | 02-09-2026 | Maximum Sum Circular Subarray | Kadane's Algorithm | Medium |
+| 04-09-2026 | Binary Search | Binary Search | Easy |
+| 04-09-2026 | Search Insert Position | Binary Search | Easy |
+| 04-09-2026 | First Bad Version | Binary Search | Easy |
+| 04-09-2026 | Find First and Last Position of Element in Sorted Array | Binary Search | Medium |
 
 ---
 
