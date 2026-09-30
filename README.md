@@ -101,6 +101,7 @@ DSA-Practice/
 | 04-09-2026 | Search Insert Position | Binary Search | Easy |
 | 04-09-2026 | First Bad Version | Binary Search | Easy |
 | 04-09-2026 | Find First and Last Position of Element in Sorted Array | Binary Search | Medium |
+| 30-09-2026 | Koko Eating Bananas | Binary Search | Medium |
 
 ---
 
