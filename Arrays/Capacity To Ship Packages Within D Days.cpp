@@ -3,6 +3,8 @@
 // Pattern: Binary Search on Answer (find the minimum ship capacity where days needed <= D)
 // Time: O(n log(sum(weights))) | Space: O(1)
 
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     bool capacity(vector<int>& weights, int mid,int days){
