@@ -103,6 +103,8 @@ DSA-Practice/
 | 04-09-2026 | Find First and Last Position of Element in Sorted Array | Binary Search | Medium |
 | 30-09-2026 | Koko Eating Bananas | Binary Search | Medium |
 | 30-09-2026 | Capacity To Ship Packages Within D Days | Binary Search | Medium |
+| 01-10-2026 | Find the Smallest Divisor Given a Threshold | Binary Search | Medium |
+| 01-10-2026 | Minimum Number of Days to Make m Bouquets | Binary Search | Medium |
 
 ---
 
