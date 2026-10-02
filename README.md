@@ -107,6 +107,7 @@ DSA-Practice/
 | 01-10-2026 | Minimum Number of Days to Make m Bouquets | Binary Search | Medium |
 | 01-10-2026 | Search a 2D Matrix | Binary Search | Medium |
 | 02-10-2026 | Search a 2D Matrix II | Binary Search | Medium |
+| 02-10-2026 | Kth Smallest Element in a Sorted Matrix | Binary Search | Medium |
 
 ---
 
