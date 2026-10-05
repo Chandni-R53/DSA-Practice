@@ -110,6 +110,7 @@ DSA-Practice/
 | 02-10-2026 | Kth Smallest Element in a Sorted Matrix | Binary Search | Medium |
 | 04-10-2026 | Valid Palindrome II | Two Pointer | Easy |
 | 04-10-2026 | Two Sum | HashMap | Easy |
+| 05-10-2026 | Find Peak Element | Binary Search | Medium |
 
 ---
 
