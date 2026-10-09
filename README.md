@@ -112,6 +112,7 @@ DSA-Practice/
 | 04-10-2026 | Two Sum | HashMap | Easy |
 | 05-10-2026 | Find Peak Element | Binary Search | Medium |
 | 05-10-2026 | Best Time to Buy and Sell Stock II | Greedy | Medium |
+| 09-10-2026 | Single Element in a Sorted Array | Binary Search | Medium |
 
 ---
 
