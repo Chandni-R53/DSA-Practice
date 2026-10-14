@@ -115,6 +115,7 @@ DSA-Practice/
 | 09-10-2026 | Single Element in a Sorted Array | Binary Search | Medium |
 | 11-10-2026 | Convert Binary Number in a Linked List to Integer | Linked List Traversal | Easy |
 | 13-10-2026 | Design Linked List | Linked List | Medium |
+| 14-10-2026 | Linked List Cycle | Cycle Detection | Easy |
 
 ---
 
