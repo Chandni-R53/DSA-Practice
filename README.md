@@ -116,6 +116,7 @@ DSA-Practice/
 | 11-10-2026 | Convert Binary Number in a Linked List to Integer | Linked List Traversal | Easy |
 | 13-10-2026 | Design Linked List | Linked List | Medium |
 | 14-10-2026 | Linked List Cycle | Cycle Detection | Easy |
+| 14-10-2026 | Middle of the Linked List | Slow-Fast Pointer | Easy |
 
 ---
 
