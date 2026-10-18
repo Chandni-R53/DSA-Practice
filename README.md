@@ -117,6 +117,9 @@ DSA-Practice/
 | 13-10-2026 | Design Linked List | Linked List | Medium |
 | 14-10-2026 | Linked List Cycle | Cycle Detection | Easy |
 | 14-10-2026 | Middle of the Linked List | Slow-Fast Pointer | Easy |
+| 18-10-2026 | Delete Node in a Linked List | Linked List | Medium |
+| 18-10-2026 | Remove Duplicates from Sorted List | Linked List | Easy |
+| 18-10-2026 | Remove Linked List Elements | Linked List | Easy |
 
 ---
 
