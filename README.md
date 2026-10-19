@@ -120,6 +120,7 @@ DSA-Practice/
 | 18-10-2026 | Delete Node in a Linked List | Linked List | Medium |
 | 18-10-2026 | Remove Duplicates from Sorted List | Linked List | Easy |
 | 18-10-2026 | Remove Linked List Elements | Linked List | Easy |
+| 19-10-2026 | Reverse Linked List | Linked List | Easy |
 
 ---
 
