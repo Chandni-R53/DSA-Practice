@@ -121,6 +121,8 @@ DSA-Practice/
 | 18-10-2026 | Remove Duplicates from Sorted List | Linked List | Easy |
 | 18-10-2026 | Remove Linked List Elements | Linked List | Easy |
 | 19-10-2026 | Reverse Linked List | Linked List | Easy |
+| 20-10-2026 | Linked List Cycle II | Floyd's Cycle Detection | Medium |
+| 20-10-2026 | Find the Duplicate Number | Floyd's Cycle Detection | Medium |
 
 ---
 
