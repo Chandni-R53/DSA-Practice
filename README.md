@@ -124,6 +124,8 @@ DSA-Practice/
 | 20-10-2026 | Linked List Cycle II | Floyd's Cycle Detection | Medium |
 | 20-10-2026 | Find the Duplicate Number | Floyd's Cycle Detection | Medium |
 | 20-10-2026 | Palindrome Linked List | Linked List + Two Pointer | Easy |
+| 24-10-2026 | Design Browser History | Doubly Linked List | Medium |
+| 24-10-2026 | Reverse Linked List II | Linked List + Stack | Medium |
 
 ---
 
