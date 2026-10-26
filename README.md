@@ -127,6 +127,7 @@ DSA-Practice/
 | 24-10-2026 | Design Browser History | Doubly Linked List | Medium |
 | 24-10-2026 | Reverse Linked List II | Linked List + Stack | Medium |
 | 25-10-2026 | Merge Two Sorted Lists | Linked List | Easy |
+| 24-10-2026 | Add Two Numbers | Linked List | Medium |
 
 ---
 
