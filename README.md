@@ -129,6 +129,7 @@ DSA-Practice/
 | 25-10-2026 | Merge Two Sorted Lists | Linked List | Easy |
 | 26-10-2026 | Add Two Numbers | Linked List | Medium |
 | 27-10-2026 | Odd Even Linked List | Linked List | Medium |
+| 29-10-2026 | Rotate List | Linked List | Medium |
 
 ---
 
