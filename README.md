@@ -130,6 +130,7 @@ DSA-Practice/
 | 26-10-2026 | Add Two Numbers | Linked List | Medium |
 | 27-10-2026 | Odd Even Linked List | Linked List | Medium |
 | 29-10-2026 | Rotate List | Linked List | Medium |
+| 04-11-2026 | Next Greater Node In Linked List | Linked List | Medium |
 
 ---
 
