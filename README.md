@@ -131,6 +131,7 @@ DSA-Practice/
 | 27-10-2026 | Odd Even Linked List | Linked List | Medium |
 | 29-10-2026 | Rotate List | Linked List | Medium |
 | 04-11-2026 | Next Greater Node In Linked List | Linked List | Medium |
+| 05-11-2026 | Remove Nodes From Linked List | Linked List | Medium |
 
 ---
 
